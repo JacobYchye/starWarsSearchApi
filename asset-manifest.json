@@ -1,15 +1,15 @@
 {
-  "main.css": "/starWarsSearchApi/static/css/main.89e2d5df.chunk.css",
-  "main.js": "/starWarsSearchApi/static/js/main.78dc0c9b.chunk.js",
-  "main.js.map": "/starWarsSearchApi/static/js/main.78dc0c9b.chunk.js.map",
-  "runtime~main.js": "/starWarsSearchApi/static/js/runtime~main.7a7dc109.js",
-  "runtime~main.js.map": "/starWarsSearchApi/static/js/runtime~main.7a7dc109.js.map",
-  "static/css/2.9600d437.chunk.css": "/starWarsSearchApi/static/css/2.9600d437.chunk.css",
-  "static/js/2.94b2aeec.chunk.js": "/starWarsSearchApi/static/js/2.94b2aeec.chunk.js",
-  "static/js/2.94b2aeec.chunk.js.map": "/starWarsSearchApi/static/js/2.94b2aeec.chunk.js.map",
-  "index.html": "/starWarsSearchApi/index.html",
-  "precache-manifest.85a945feb781b864b3540f6614c9e635.js": "/starWarsSearchApi/precache-manifest.85a945feb781b864b3540f6614c9e635.js",
-  "service-worker.js": "/starWarsSearchApi/service-worker.js",
-  "static/css/2.9600d437.chunk.css.map": "/starWarsSearchApi/static/css/2.9600d437.chunk.css.map",
-  "static/css/main.89e2d5df.chunk.css.map": "/starWarsSearchApi/static/css/main.89e2d5df.chunk.css.map"
+  "main.css": "/starWarsSearchApi/./static/css/main.89e2d5df.chunk.css",
+  "main.js": "/starWarsSearchApi/./static/js/main.78dc0c9b.chunk.js",
+  "main.js.map": "/starWarsSearchApi/./static/js/main.78dc0c9b.chunk.js.map",
+  "runtime~main.js": "/starWarsSearchApi/./static/js/runtime~main.84ffffa1.js",
+  "runtime~main.js.map": "/starWarsSearchApi/./static/js/runtime~main.84ffffa1.js.map",
+  "static/css/2.9600d437.chunk.css": "/starWarsSearchApi/./static/css/2.9600d437.chunk.css",
+  "static/js/2.94b2aeec.chunk.js": "/starWarsSearchApi/./static/js/2.94b2aeec.chunk.js",
+  "static/js/2.94b2aeec.chunk.js.map": "/starWarsSearchApi/./static/js/2.94b2aeec.chunk.js.map",
+  "index.html": "/starWarsSearchApi/./index.html",
+  "precache-manifest.5ce0174e6ad3df945a8b15c807418907.js": "/starWarsSearchApi/./precache-manifest.5ce0174e6ad3df945a8b15c807418907.js",
+  "service-worker.js": "/starWarsSearchApi/./service-worker.js",
+  "static/css/2.9600d437.chunk.css.map": "/starWarsSearchApi/./static/css/2.9600d437.chunk.css.map",
+  "static/css/main.89e2d5df.chunk.css.map": "/starWarsSearchApi/./static/css/main.89e2d5df.chunk.css.map"
 }
